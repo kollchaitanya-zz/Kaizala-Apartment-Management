@@ -1,22 +1,40 @@
 # Kaizala Building Management
-Prerequisite to start this solution
+## Prerequisite to start this solution
 - Two mobile numbers (1 as admin, 1 as resident).
 - Create an account https://manage.kaiza.la/, Ensure that the kaizala pro is enabled
 - Take one office 365 user license.
 Request to activate the kaizala pro to customize the solutions, an organization account is created. 
 
 Developing a building management solution using Kaizala platform.
+- Demos https://kaizalademo.office.com/
 - Kaizala Pro: https://docs.microsoft.com/en-us/office365/kaizala/enable-disable-kaizala
 - Groups: https://docs.microsoft.com/en-us/office365/kaizala/groups
 - Public Groups: https://docs.microsoft.com/en-us/office365/kaizala/public-groups
 
 There are four personas
-- Management team - create a organization group
-- Security - create a organization group 
-- Residents - create an= public group
-- Association team - Create a organization group.
+- Management 
+- Security  
+- Residents 
+- Association members 
+## Groups to be created
+Login in to the web application and create below groups and add different persona members
+- Operations 
+    - Create group
+    - Add management & Assocation members
+    - Deactivate all default actions
+    ![restrict actions](media/RestrictActions.jpg)
+    Click on Admin, Member checkbox and click on "Save".
+- Security
+    - Create group
+    - Add security members
+- BMS 
+    - Create group
+    - Add management members
+- Residents
+    - Create a Public Groups
+    - Add all the members as subscribers
 
-Management team responsibilities
+## Management team responsibilities
 - House keeping    
     Responsbible to ensure that building premises is clean.
 - Technical team   
