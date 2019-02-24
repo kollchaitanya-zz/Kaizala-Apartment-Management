@@ -1,7 +1,8 @@
 # Kaizala Building Management
 ## Prerequisite to start this solution
 - Two mobile numbers (1 as admin, 1 as resident).
-- Create an account https://manage.kaiza.la/, Ensure that the kaizala pro is enabled
+- Create an account https://manage.kaiza.la/, Ensure that the kaizala pro is enabled.
+- Activate the https://flows.microsoft.com with same login.
 - Take one office 365 user license.
 Request to activate the kaizala pro to customize the solutions, an organization account is created. 
 
@@ -22,7 +23,7 @@ Login in to the web application and create below groups and add different person
     - Create group
     - Add management & Assocation members
     - Deactivate all default actions
-    ![restrict actions](media/RestrictActions.jpg)
+    ![restrict actions](Media/RestrictActions.jpg)
     Click on Admin, Member checkbox and click on "Save".
 - Security
     - Create group
