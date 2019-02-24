@@ -12,7 +12,7 @@ Developing a building management solution using Kaizala platform.
 - Groups: https://docs.microsoft.com/en-us/office365/kaizala/groups
 - Public Groups: https://docs.microsoft.com/en-us/office365/kaizala/public-groups
 
-There are four personas
+There are four persona
 - Management 
 - Security  
 - Residents 
@@ -21,7 +21,7 @@ There are four personas
 Login in to the web application and create below groups and add different persona members
 - Operations 
     - Create group
-    - Add management & Assocation members
+    - Add management & association members
     - Deactivate all default actions
     ![restrict actions](Media/RestrictActions.jpg)
     Click on Admin, Member checkbox and click on "Save".
@@ -37,11 +37,11 @@ Login in to the web application and create below groups and add different person
 
 ## Management team responsibilities
 - House keeping    
-    Responsbible to ensure that building premises is clean.
+    Responsible to ensure that building premises is clean.
 - Technical team   
-    Different variety of technical issues needs to be hanlded by this team eg: Electrical, Plumbing, Carpenter, Water Treatment Plant, Seweage Treatment Plant.
+    Different variety of technical issues needs to be handled by this team eg: Electrical, Plumbing, Carpenter, Water Treatment Plant, Sewage Treatment Plant.
 
-Q1) How to ensure that every equipement is working?
+Q1) How to ensure that every equipment is working?
 A1) it is possible by checking it every day, but this needs to be recorded digitally so that the association team can verify through reports. So the solution is creating the Daily / Monthly / Quarterly check lists. 
 
 - Daily checklists
@@ -50,7 +50,7 @@ A1) it is possible by checking it every day, but this needs to be recorded digit
   - Diesel generator
   - Lifts
   - Water treatment plant 
-  - Sewage treatement verification
+  - Sewage treatment verification
 - Monthly check lists
   - Fire extinguisher
   - CCTV Cameras
@@ -59,5 +59,6 @@ A1) it is possible by checking it every day, but this needs to be recorded digit
   - Swimming pool water pumps
 
 Q2) How to create a custom checklist?
-A2) 
+
+A2) [Custom Checklist](CustomChecklist.md)
 
