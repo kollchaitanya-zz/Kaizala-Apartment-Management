@@ -22,6 +22,7 @@ Login in to the web application and create below groups and add different person
     - Add all the members as subscribers
 
 ## Management team responsibilities
+This team is part of the operations group
 - House keeping    
     Responsible to ensure that building premises is clean.
 - Technical team   
