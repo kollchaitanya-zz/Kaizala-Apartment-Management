@@ -19,7 +19,7 @@ Login in to the web application and create below groups and add different person
     - Add security members
 - BMS 
     - Create group
-    - Add management members
+    - Add Operation team admin members
 - Residents
     - Create a Public Groups
     - Deactivate all default actions
