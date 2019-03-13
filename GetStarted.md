@@ -13,12 +13,17 @@ Login in to the web application and create below groups and add different person
     Click on Admin, Member checkbox and click on "Save".
 - Security
     - Create group
+     - Deactivate all default actions
+    ![restrict actions](Media/RestrictActions.jpg)
+    Click on Admin, Member checkbox and click on "Save".
     - Add security members
 - BMS 
     - Create group
     - Add management members
 - Residents
     - Create a Public Groups
+    - Deactivate all default actions
+    ![restrict actions](Media/RestrictActions.jpg)
     - Add all the members as subscribers
 
 ## Management team responsibilities
