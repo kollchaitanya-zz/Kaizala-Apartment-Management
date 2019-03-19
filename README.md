@@ -1,4 +1,6 @@
 # Kaizala Apartment Management
+This repository is the implmentation of kaizala as apartment management solution to take care of the day to day activities like Security Gate register, Complaints raised by the residents.
+
 ## Prerequisite to start this solution
 - Two mobile numbers (1 as admin, 1 as resident).
 - Create an account https://manage.kaiza.la/, Ensure that the kaizala pro is enabled.
@@ -12,5 +14,4 @@ Developing a building management solution using Kaizala platform.
 - Groups: https://docs.microsoft.com/en-us/office365/kaizala/groups
 - Public Groups: https://docs.microsoft.com/en-us/office365/kaizala/public-groups
 
-
-
+[Get Started](GetStarted.md)

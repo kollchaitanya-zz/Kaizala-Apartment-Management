@@ -46,10 +46,12 @@ A1) it is possible by checking it every day, but this needs to be recorded digit
 - Monthly check lists
   - Fire extinguisher
   - CCTV Cameras
- - Quarterly check lists
+  - Quarterly check lists
   - Gym equipments
   - Swimming pool water pumps
 
 Q2) How to create a custom checklist?
-
 A2) [Custom Checklist](CustomChecklist.md)
+
+Q3) How to start for the residents?
+A3) [Invite Residents](ResidentDetails.md)
