@@ -14,4 +14,5 @@ Developing a building management solution using Kaizala platform.
 - Groups: https://docs.microsoft.com/en-us/office365/kaizala/groups
 - Public Groups: https://docs.microsoft.com/en-us/office365/kaizala/public-groups
 
-[Get Started](GetStarted.md)
+# Get Started
+Click on the [link](GetStarted.md) and setup different procedures.
