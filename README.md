@@ -1,5 +1,5 @@
 # Kaizala Apartment Management
-This repository is the implmentation of kaizala as apartment management solution to take care of the day to day activities like Security Gate register, Complaints raised by the residents.
+This repository is the implementation of kaizala as apartment management solution to take care of the day to day activities like Security Gate register, Complaints raised by the residents.
 
 ## Prerequisite to start this solution
 - Two mobile numbers (1 as admin, 1 as resident).

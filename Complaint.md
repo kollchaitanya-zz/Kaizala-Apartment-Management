@@ -3,18 +3,25 @@ This Action Card & Flow would help residents to raise a complaint.
 
 When a complaint is raised by the resident, The system should send acknowledgement with complaint number to resident and post an action card to "Operations" group. Operations team can also take actions.
 
-- Create a list with name as "Complaints"
-    Add the below list of columns 
-    - "Flat No"
-    - "Problem Type"
-    - "Problem Description"
-    - "Photo of ticket"
-    - "Comments"
-    - "Feedback PhoneNumber"
-    - "User"
-    - "Status" - This is a dropdown as "Submitted, Re-opened, Closed, Working", default is "submitted".
-    - "Reopen Comments"
-    - "phnumber"
+- Step 1: Create the [SharePoint list](https://support.office.com/en-us/article/Create-a-list-in-SharePoint-0D397414-D95F-41EB-ADDD-5E6EFF41B083)
+    - List Name: "Complaints"
+    - List of columns
+
+| Column Name | Data Type |
+| --- | --- |
+| Flat No | Single line of text |
+| Problem Type | Single line of text |
+| Problem Description | Multiple lines of text |
+| Photo of ticket | Single line of text |
+| Comments| Single line of text |
+| Feedback PhoneNumber | Single line of text |
+| User | Single line of text |
+| Status | Choice "Submitted, Re-opened, Closed, Working", default is "submitted" |
+| Comments | Single line of text |
+| Reopen Comments | Multiple lines of text |
+| phnumber | Single line of text |
+
+
 - Create a Action card 
     -  Step 1: ![Step 1](Media/Complaint/ActionCardForm.png)
     -  Step 2: ![Step 2](Media/Complaint/ActionCardQuestions.png)
