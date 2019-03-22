@@ -35,7 +35,7 @@ Security officer at the entrance of the gate need to register the details of the
         - Similarly search for "20b6a53e-7bb8-4554-bc46-b926f35aa34f" and replace with "<apartmentname>.DeliveryApproval" in all json files.
 
 - Step 4: Import Two flows
-    - Flow 1: Security team sending the visitor details to residents and requesting for approval - [Download](Media/GateEntry/Security-GateRegister_20190321182301.zip)
+    - Flow 1: Security team sending the visitor details to residents and requesting for approval - [Download](Media/GateEntry/Security-GateRegister_20190322164101.zip)
     - Flow 2: "Deliver Approval" survey card get posted in the residents group, When resident take action flow trrgger - [Download](Media/GateEntry/ResidentsDeliveryApprovalFlow_20190321182752.zip)
 
 - Step 5: Validation in each flow
