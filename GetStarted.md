@@ -26,3 +26,8 @@ Login in to the web application and create below groups and add different person
     - Deactivate all default actions
     ![restrict actions](Media/RestrictActions.jpg)
     - Add all the members as subscribers
+
+## Click on the each Group 
+- Group 1: [Operations](Operations.md)
+- Group 2: [Security](Security.md)
+- Group 3: [Residents](Residents.md)
