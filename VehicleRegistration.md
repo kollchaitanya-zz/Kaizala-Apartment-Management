@@ -23,7 +23,7 @@ List of columns
 - Step 2: Create the Action
     -  Step 2.1: ![Step 1](Media/VehicleRegistration/ActionCardForm.png)
     -  Step 2.2: ![Step 2](Media/VehicleRegistration/ActionCardQuestions.png)
-    -  Step 2.3: Attach the card to the Secuirty, Operations, Residents group so that everyone can register the vehicle
+    -  Step 2.3: Attach the card to the Security, Operations, Residents group so that everyone can register the vehicle
 
 - Step 3: Import the [flow](Media/VehicleRegistration/VehicleRegistartion_Flow_20190323134837.zip)
 - Step 4: If you add the action card to three groups, then import the flow for three times and attach it to appropriate groups in the first step.
