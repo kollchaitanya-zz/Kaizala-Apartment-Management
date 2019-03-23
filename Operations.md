@@ -23,4 +23,6 @@ A1) it is possible by checking it every day, but this needs to be recorded digit
   - Gym equipments
   - Swimming pool water pumps
 
-How to create the [Custom Checklist](CustomChecklist.md)?
+## Action Cards and flows
+- [Custom Checklist](CustomChecklist.md)
+- [Vehicle Registration](VehicleRegistration.md)
