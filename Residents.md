@@ -6,3 +6,4 @@ Residents groups is a public group managed by organization. By using the "Invite
     - [Invite Residents](ResidentDetails.md)
     - [Raise a Complaint](RaiseAComplaint.md)
     - [Vehicle Registration](VehicleRegistration.md)
+    - [Vehicle Search](VehicleSearch.md)

@@ -14,11 +14,12 @@ With Office 365, the admin will have an option to create a sharepoint site. crea
 | ResidentType | Single line of text |
 | Invited By | Single line of text |
 | Invited By PhoneNumber | Single line of text |
-    
+
 - Create a Action card 
     -  ![Step 1](Media/InviteMember/ActionCardForm.png)
     -  ![Step 2](Media/InviteMember/ActionCardQuestions.png)
+
+- Login in to https://flow.microsoft.com and import the flow
     Download the package by clicking on the "flow Package" , While importing the package, choose the connections by authentication.
     -  [Flow Package](Media/InviteMember/InviteMember_20190319234734.zip)
 
-- Login in to https://flow.microsoft.com and import the flow
