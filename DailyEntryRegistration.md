@@ -16,8 +16,11 @@ FACE API URL Refrence: https://westus.dev.cognitive.microsoft.com/docs/services/
 - Step 3: Take the key from the Manage Keys
 ![ManageKeys](Media/DailyRegistration/FACEAPIKey.png)
 
-- Step 4: In the Sharepoint add images
-![Sharepoint](Media/DailyRegistration/SharepointPhotos.png)
+- Step 4: Need to upload few images to sharepoint. These images are used in announcements that a flow sends to security team.
+    - Sharepoint images upload location
+![Step 4.1](Media/GateEntry/SharepointImagesFolder.png)
+    - Images to be uploaded
+![Step 4.1](Media/DailyRegistration/SharepointPhotos.png)
 
 - Step 5: Create Three list item in sharepoint
 List 1: "Daily Visitor Registration"
